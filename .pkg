@@ -1,0 +1,4 @@
+[wxWidgets]
+  url=git@github.com:Compendium-GmbH/wxWidgets.git
+  branch=master
+  commit=6cdaedd42ba59331b3dc4ead50e0bac76ae14c19
