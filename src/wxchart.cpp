@@ -60,6 +60,7 @@ void wxChart::Fit()
 
 void wxChart::DrawTooltips(wxGraphicsContext &gc)
 {
+    /*
     if (m_activeElements->size() == 1)
     {
         // If only one element is active draw a normal tooltip
@@ -79,5 +80,5 @@ void wxChart::DrawTooltips(wxGraphicsContext &gc)
             multiTooltip.AddTooltip(tooltip);
         }
         multiTooltip.Draw(gc);
-    }
+    }*/
 }
